@@ -1,6 +1,6 @@
 # AWS-Terraform-locals
 
-Terraform locals allow you to simpligy your Terraform configure that help you avoid repetition as well as hard-coding values
+Terraform locals allow you to simplify your Terraform configure that help you avoid repetition as well as hard-coding values
 
 ## AWS resource
 1. VPC called by module AWS
